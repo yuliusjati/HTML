@@ -7,7 +7,7 @@ latihan 3
 ![Alt Text](https://github.com/yuliusjati/HTML/blob/master/Latihan3.html)
 latihan 4
 ![Alt Text](https://github.com/yuliusjati/HTML/blob/master/latihan4.html)
-latihan 45
+latihan 5
 ![Alt Text](https://github.com/yuliusjati/HTML/blob/master/latihan5.html)
 latihan 6
 ![Alt Text](https://github.com/yuliusjati/HTML/blob/master/latihan6.html)
